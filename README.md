@@ -65,3 +65,24 @@ If you want to run this locally on your own machine (assuming you have a GPU):
    ```
 
 It will output a localhost link where you can run the code locally.
+
+---
+
+### Tools & Libraries
+
+<table>
+  <tr>
+    <td><a href="https://pytorch.org/" target="_blank"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60" alt="PyTorch"/></a></td>
+    <td><a href="https://huggingface.co/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" width="60" alt="HuggingFace"/></a></td>
+      <td><a href="https://spacy.io/" target="_blank"><img src="https://media.tekpon.com/2023/02/spaCy-io-Logo.webp" width="60" alt="spaCy"/></a></td>
+    <td><a href="https://www.python.org/" target="_blank"><img src="https://www.python.org/static/community_logos/python-logo.png" width="60" alt="Python"/></a></td>
+  </tr>
+</table>
+
+---
+The Jupyter Notebook can be found in the same repo:
+<p align="center">
+  <a href="Clarity.ipynb">
+    <img src="https://img.shields.io/badge/Read-More-blue?style=for-the-badge&logo=readthedocs"/>
+  </a>
+</p>
