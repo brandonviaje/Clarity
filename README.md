@@ -1,5 +1,7 @@
 # Clarity: Semantic Vision Engine
 
+![Clarity Demo](assets/demo.png)
+
 **Clarity** is a multi-modal perception pipeline that bridges the gap between image understanding and object localization. Unlike traditional computer vision systems that rely on a fixed set of labels, Clarity uses a **Compositional AI** approach, leveraging the strengths of three state-of-the-art models to "reason" about a scene in real-time.
 
 ## Pipeline 
