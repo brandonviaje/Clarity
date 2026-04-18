@@ -1,0 +1,8 @@
+gradio
+torch
+torchvision
+transformers
+ultralytics
+pillow
+numpy
+spacy
