@@ -1,1 +1,1 @@
-# semantic-vision
+# Clarity
