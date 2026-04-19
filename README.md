@@ -2,7 +2,7 @@
 
 ![Clarity Demo](assets/demo.png)
 
-**Clarity** is a multi-modal perception pipeline that bridges the gap between image understanding and object localization. Unlike traditional computer vision systems that rely on a fixed set of labels, Clarity uses a **Compositional AI** approach, leveraging the strengths of three state-of-the-art models to "reason" about a scene in real-time.
+**Clarity** is a multi-modal perception pipeline that bridges the gap between image understanding and object localization. Unlike traditional computer vision systems that rely on a fixed set of labels, Clarity uses a **Compositional ML** approach, leveraging the strengths of three state-of-the-art models to "reason" about a scene in real-time.
 
 > [!IMPORTANT]
 > The citations/references for each neural network can be found in the Jupyter Notebook in the markdown located in the neural network architecture section
